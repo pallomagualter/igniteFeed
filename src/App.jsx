@@ -20,10 +20,6 @@ export function App() {
             author="Palloma Gualter"
             content="Post legal"
           />
-          <Post 
-            author="Pâmella Gualter"
-            content="Segundo post legal"
-          />
         </main>
       </div>
     </div>
